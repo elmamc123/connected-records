@@ -53,3 +53,4 @@ Researchers who encounter overlapping records, missing connections, corrections,
 ## Author
 
 Elaine McCarty
+![Expanded Master Plate](Neon%20Atlas%20of%20Global%20Networks.png)
